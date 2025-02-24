@@ -4,6 +4,7 @@
 Today, I delved into the world of API calls using Axios in React, and it was an enlightening experience! 📡🔧 The ability to fetch and display data dynamically is crucial for modern web development, and I'm thrilled to have tackled this essential concept.
 
 Key Learnings:
+
 Handling API Requests: Successfully used Axios to make GET requests and fetch data from a placeholder API.
 
 Managing State: Leveraged React's useState hook to manage loading states and handle the fetched data efficiently.
