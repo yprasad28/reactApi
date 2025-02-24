@@ -12,15 +12,8 @@ Conditional Rendering: Implemented conditional rendering to ensure a smooth user
 
 Displaying Data: Rendered the fetched data in a clean and user-friendly UI using map functions and dynamic content generation.
 
-Special thanks to my mentor, [Mentor's Name], for guiding me through this journey. Your insights and support have been invaluable! 🙏
 
-Check out the repository with the full implementation here: GitHub Repository Link
 
-I am proud of how much I've learned and grown in just 17 days! This journey is proving to be incredibly rewarding, and I'm excited to continue mastering React and API integrations. 📈✨
-
-Feel free to share your experiences or tips on handling API calls in the comments below. Let's learn and grow together! 🚀🔥
-
-#100DaysOfCode #ReactJS #API #WebDevelopment #CodingJourney #Mentorship
 ![image](https://github.com/yprasad28/reactApi/blob/56d1c3787457cd312d5a5ecbd0f7a89ba2a5acdc/Screenshot%202025-02-24%20145108.png)
 
 
